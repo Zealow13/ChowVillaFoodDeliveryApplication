@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "1837-diabetic-pecan-crusted-chicken-breast_JulAug20DF_clean-simple_061720.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
